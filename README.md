@@ -1,6 +1,6 @@
 ################################
 
-Criado Por Heitor Urbanetz para o D3 Challenge
+Criado Por Heitor Urbanetz.
 Foi usado: React, Material UI, CSS modules, Docker, Teste Unitário, Covid API
 
 ################################
